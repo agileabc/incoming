@@ -5,7 +5,7 @@
 
 To Do
 -----
-* 了解http://jasmine.github.io/的工作原理。
+* 了解http://jasmine.github.io/ 的工作原理。
 * 了解mocha的各项工作方法。
 
 Done
