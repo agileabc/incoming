@@ -2,6 +2,7 @@
 
 * https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 * https://leanpub.com/understandinges6/read
+* https://library.epam.com/
 
 To Do
 -----
