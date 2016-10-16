@@ -14,6 +14,7 @@ To Do
 * Mock Test。
 * 整理要讲的内容。
 * 在本地安装对它的一切依赖：C:\Doc\Dev\javascript-me\selenium-webdriver-test
+* http://www.bradoncode.com/blog/2015/02/27/karma-tutorial/
 
 Done
 ----
