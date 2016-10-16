@@ -1,4 +1,4 @@
-# incoming
+# Quick Link
 
 * https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 * https://leanpub.com/understandinges6/read
@@ -12,9 +12,8 @@ To Do
 * Cross Domain: https://jvaneyck.wordpress.com/2014/01/07/cross-domain-requests-in-javascript/
 * Array常用方法。
 * Mock Test。
+* 整理要讲的内容。
 
 Done
 ----
 * 使用Mocha如何测试DOM的构建结果? 
-
-
