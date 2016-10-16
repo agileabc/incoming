@@ -13,6 +13,7 @@ To Do
 * Array常用方法。
 * Mock Test。
 * 整理要讲的内容。
+* 在本地安装对它的一切依赖：C:\Doc\Dev\javascript-me\selenium-webdriver-test
 
 Done
 ----
