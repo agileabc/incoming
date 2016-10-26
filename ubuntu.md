@@ -1,4 +1,6 @@
 
+# Set node version manually. http://askubuntu.com/questions/426750/how-can-i-update-my-nodejs-to-the-latest-version
+
 ### Install n, and make it pointing to latest "stable" version. 
 
 ```
